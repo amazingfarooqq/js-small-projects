@@ -1,2 +1,4 @@
 # js-small-projects
-Small JavaScript projects for social media.
+
+## Project demo
+![Project Demo Picture](./demo.png)
