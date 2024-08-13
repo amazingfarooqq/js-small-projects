@@ -1,2 +1,1 @@
-# js-small-projects
-Small JavaScript projects for social media.
+# Digital Clock Using JavaScript
